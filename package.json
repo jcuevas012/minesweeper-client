@@ -1,0 +1,17 @@
+{
+  "name": "minesweeper-client",
+  "version": "1.0.0",
+  "description": "this is a client for external api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Color",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "moment": "^2.20.1",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
